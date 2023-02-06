@@ -6,7 +6,7 @@
 
 #app-header{
     background-color: rgb(172, 235, 214);
-    width: 100%;
+    padding: 1rem;
 }
 
 .container{
@@ -35,4 +35,19 @@ nav{
     background-color: orange;
     width: 25%;
     border: 1px dashed black;
+}
+
+
+
+.column{
+   background-color: blue;
+   padding: 2rem;
+
+}
+
+.col{
+    background-color: pink;
+    margin-left: 300px;
+    margin-right: 300px;
+    height: 400px;
 }
