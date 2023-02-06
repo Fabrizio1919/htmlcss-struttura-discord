@@ -55,6 +55,11 @@ nav{
     border: 1px dashed black;
 }
 
+.bg-col{
+    background-color: lightslategray;
+    padding: 2rem;
+}
+
 .row-text{
     background-color: rgb(64, 134, 238);
     width: 60%;
