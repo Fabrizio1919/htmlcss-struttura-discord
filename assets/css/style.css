@@ -12,6 +12,7 @@
 .container{
     margin: auto;
     width: 70%;
+    padding: 2rem;
 }
 
 .flex{
@@ -43,6 +44,7 @@ nav{
    background-color: blue;
    padding: 2rem;
 
+
 }
 
 .col{
@@ -50,4 +52,18 @@ nav{
     margin-left: 300px;
     margin-right: 300px;
     height: 400px;
+    border: 1px dashed black;
+}
+
+.row-text{
+    background-color: rgb(64, 134, 238);
+    width: 60%;
+    height: 400px;
+    border: 1px dashed black;
+}
+
+.image-row{
+    background-color: plum;
+    width: 40%;
+    border: 1px dashed black;
 }
