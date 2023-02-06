@@ -3,3 +3,36 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+#app-header{
+    background-color: rgb(172, 235, 214);
+    width: 100%;
+}
+
+.container{
+    margin: auto;
+    width: 70%;
+}
+
+.flex{
+    display: flex;
+}
+
+
+.logo{
+    background-color: orange;
+    width: 25%;
+    border: 1px dashed black;
+}
+
+nav{
+    background-color: orange;
+    width: 50%;
+    border: 1px dashed black;
+}
+
+.login{
+    background-color: orange;
+    width: 25%;
+    border: 1px dashed black;
+}
